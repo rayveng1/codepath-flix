@@ -20,9 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-
-![](https://i.imgur.com/vWhpNyH.gif") 
-
+![](https://i.imgur.com/0jeIQ0Y.gif)
 
 
 
@@ -74,5 +72,4 @@ I had struggles getting the posters to properly crop on the collection view for 
 
 Describe any challenges encountered while building the app.
 
-Challenges included understanding the some of the code that was written for the sake of the project. I understand that this is just an initial look at Swift but it's nice to know that there's still so much to learn. I had some issues getting some of the IBOutlets to work properly but I was able to figure it out. 
-
+Challenges included understanding the some of the code that was written for the sake of the project. I understand that this is just an initial look at Swift but it's nice to know that there's still so much to learn. I had some issues getting some of the IBOutlets to work properly but I was able to figure it out.
