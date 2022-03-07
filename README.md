@@ -20,8 +20,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/ybfYFk5.gif)
-
 <img src='https://i.imgur.com/ybfYFk5.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
@@ -66,7 +64,8 @@ I had struggles getting the posters to properly crop on the collection view for 
 
 
 
-![](https://i.imgur.com/327x2Df.gif)
+![](https://i.imgur.com/uxtXaPV.gif)
+
 
 
 
